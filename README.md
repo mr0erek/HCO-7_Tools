@@ -1,37 +1,23 @@
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEey4KPWqWGGktb4Me8exeA)
+#🕳️𝗧𝗼𝗽 𝟳 𝗛𝗮𝗰𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 🔥🔫
 
+##📢𝗥𝘂𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘁𝗼 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗵𝗲 𝗧𝗼𝗼𝗹
 
-# 🕳️𝗧𝗼𝗽 𝟳 𝗛𝗮𝗰𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 🔥🔫
+✅ apt update && apt upgrade
 
-# 📢𝗥𝘂𝗻 𝘁𝗵𝗲 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘁𝗼 𝗜𝗻𝘀𝘁𝗮𝗹𝗹 𝘁𝗵𝗲 𝗧𝗼𝗼𝗹
+✅ pkg install git
 
-> (just an example)
+✅ pkg install python
 
----
-## Update your system as :
+✅ git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools
 
-- ```sh
-  apt update && apt upgrade
-  ```
-- ```sh
-   pkg install git
-  ```
+✅ cd HCO-7_Tools
 
-- ```
-  pkg install python
-  ```
+✅ ls
 
-- ```sh
-  git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools
-  ```
-- ```bash
-  cd HCO-7_Tools
-  ```
-- ```sh
-  python HCO-7_Tools.py
-  ```
----
-***Now to use this tool you will be automatically redirected to our YouTube channel do subscribe and click on Bell icon and come back to Termux and you Will be able to use this tool for free***
----
+✅ python HCO-7_Tools.py
 
-𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 [**Join WhatsApp group**](https://chat.whatsapp.com/Ha3goS71)
+Now to use this tool you will be automatically redirected to our YouTube channel do subscribe and click on Bell icon and come back to Termux and you Will be able to use this tool for free
+
+Hope & You Love the tool and for any queries or error join our Hacking our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
+
+𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼 https://chat.whatsapp.com/Ha3goS71
